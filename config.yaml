@@ -1,0 +1,3 @@
+TAVILY_API_KEY: "tvly-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+MODEL_PATH: "/path/to/your/local/MrHu/model"
+CHECKER_PATH: "/path/to/your/local/Qwen2.5-1.5B-Instruct/model"
