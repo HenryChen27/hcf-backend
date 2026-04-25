@@ -38,8 +38,8 @@
 
 ```bash
 # 克隆你的项目仓库
-git clone <your-repo-url>
-cd mrhu_backend
+git clone https://github.com/HenryChen27/hcf-backend.git
+cd hcf-backend
 
 # 根据以下链接手动下载模型到本地目录
 # - MrHu 风格化模型 (约15GB): https://www.modelscope.cn/models/HenryChen66/MrHu
