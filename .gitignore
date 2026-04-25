@@ -1,4 +1,4 @@
-# Python
+# ========== Python ==========
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,31 +8,44 @@ dist/
 build/
 *.egg
 
-# 虚拟环境
+# ========== 后端敏感配置 ==========
+backend/config.yaml
+
+# ========== 虚拟环境 ==========
 venv/
 env/
 .venv/
 
-# 配置文件（包含敏感信息，千万不要上传！）
-config.yaml
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# 模型文件（太大，不传 Git）
+# ========== 模型文件 ==========
 *.bin
 *.safetensors
 *.pt
 *.pth
 models/
 
-# 系统文件
+# ========== 前端 ==========
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# ========== IDE ==========
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========== 系统文件 ==========
 .DS_Store
 Thumbs.db
 
-# 日志
+# ========== 日志 ==========
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*

@@ -1,0 +1,3 @@
+TAVILY_API_KEY: "your-tavily-api-key-here"
+MODEL_PATH: "/path/to/your/MrHu/model"
+CHECKER_PATH: "/path/to/your/Qwen2.5-1.5B-Instruct/model"
