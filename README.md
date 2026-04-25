@@ -1,6 +1,6 @@
 # 🤖 HCF - 户晨风 AI 对话系统
 
-一个为"赛博学长"户晨风先生量身定制的全栈 AI 对话系统。包含风格化微调的大语言模型后端与现代 React 前端，支持智能联网搜索，实现高度拟真、犀利且富有个人特色的对话体验。
+一个为户晨风先生量身定制的全栈 AI 对话系统。包含风格化微调的大语言模型后端与现代 React 前端，支持智能联网搜索，实现高度拟真、犀利且富有个人特色的对话体验。
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
